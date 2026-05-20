@@ -213,12 +213,12 @@ Actively expanding into production-grade engineering topics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamvivek1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvivek1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamvivek1999&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamvivek1999&theme=tokyonight" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=iamvivek1999&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" width="700"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamvivek1999&theme=tokyonight" height="180"/>
 
 <br/>
 
