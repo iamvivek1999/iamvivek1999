@@ -11,22 +11,29 @@
 
 # `< Vivek Bhange />`
 
-### AI/ML Engineer · Full Stack Developer · DevOps Enthusiast
+### AI/ML Enthusiast · Full Stack Developer · DevOps Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+at+Scale;AI+%2B+Cloud+%2B+Full+Stack+%3D+My+Stack;Real-Time+ML+%7C+Blockchain+%7C+DevOps;B.Tech+CSE+%40+VIIT+Pune+%7C+CGPA+8%2B;Open+to+Roles+in+AI%2C+Backend+%26+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+at+Scale;AI+%2B+Cloud+%2B+Full+Stack+%3D+My+Stack;Real-Time+ML+%7C+Blockchain+%7C+DevOps;B.Tech+CSE+%40+VIIT+Pune;Open+to+Roles+in+AI%2C+Backend+%26+Cloud)](https://git.io/typing-svg)
+
+<br/>
+
+> 🚀 **Open to internships and entry-level roles in Backend, AI/ML, DevOps, and Cloud Engineering.**
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveksainathbhange)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekbhange2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvivek1999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4081?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekbhange.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-00C853?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1O4yitQ8VMU94GCLGa6MHO9kxQXa4GpHW/view?usp=drive_link)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vivekbhange/)
 [![Profile Views](https://komarev.com/ghpvc/?username=iamvivek1999&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/iamvivek1999)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## `whoami`
 
@@ -34,16 +41,26 @@
 vivek = {
     "name"      : "Vivek Sainath Bhange",
     "location"  : "Pune, Maharashtra 🇮🇳",
-    "education" : "B.Tech CSE @ VIIT Pune | CGPA 8+",
+    "education" : "B.Tech CSE @ VIIT Pune",
     "focus"     : ["AI/ML Systems", "Cloud & DevOps", "Full Stack"],
     "building"  : "Scalable AI-powered real-world applications",
-    "exploring" : ["Agentic AI", "Kubernetes", "Cloud-Native"],
+    "exploring" : ["Agentic AI", "Kubernetes", "Terraform", "System Design"],
     "passion"   : "Engineering systems that think, scale & deliver",
-    "available" : True  # Open to SDE / AI / DevOps roles
+    "available" : True  # Open to internships & entry-level roles
 }
 ```
 
 <br clear="right"/>
+
+---
+
+## `🚀 What I Bring`
+
+✔️ &nbsp;**AI/ML systems** — model building, evaluation, and real-time dashboard integration  
+✔️ &nbsp;**Backend API development** — scalable architectures with Node.js, Express, Flask, and FastAPI  
+✔️ &nbsp;**Cloud deployments** — end-to-end AWS, Docker, Nginx, and GitHub Actions pipelines  
+✔️ &nbsp;**Secure systems** — JWT authentication, role-based access control, and database design  
+✔️ &nbsp;**DevOps automation** — CI/CD workflows, containerization, and production deployment  
 
 ---
 
@@ -54,29 +71,37 @@ vivek = {
 <td width="50%">
 
 ### 🔴 AI-Powered Traffic Classifier
-> Real-time network threat detection at the packet level
 
-- 🧠 Live packet capture & ML-based attack classification
-- 🔬 Built with **Python, Scapy, Streamlit, scikit-learn**
-- 🔥 Flow-based architecture for sub-second inference
-- 🛡️ Automated firewall blocking + prediction logging
-- 📊 Interactive real-time dashboard for traffic analytics
+Real-time network traffic analysis and attack detection system
 
-`Python` `Scapy` `Streamlit` `ML` `Cybersecurity`
+- 🧠 Live packet capture with ML-based attack classification
+- 📊 Processed real-time network flows using flow-based architecture
+- 🛡️ Automated firewall rule triggering on threat detection
+- 📋 Prediction logging with interactive Streamlit dashboard
+- 🔬 Built with **Python, Scapy, scikit-learn, Streamlit**
+
+`Python` `Scapy` `scikit-learn` `Streamlit` `Wireshark`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/iamvivek1999/AI-Traffic-Classifier)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat&logo=googlechrome&logoColor=white)](https://github.com/iamvivek1999/AI-Traffic-Classifier)
 
 </td>
 <td width="50%">
 
 ### 🟣 Transparent Crowdfunding Platform
-> Blockchain-powered funding with zero trust issues
 
-- ⛓️ **Polygon smart contracts** for on-chain auditability
-- 💳 **Razorpay** payments + **JWT** authentication
-- 📋 Milestone-based fund release workflow
-- 🏗️ MERN stack + scalable REST APIs
-- 🔍 Full transparency for startup fundraising
+MERN + Blockchain-based transparent startup funding platform
 
-`React` `Node.js` `MongoDB` `Solidity` `Polygon`
+- ⛓️ Polygon smart contracts for on-chain fund auditability
+- 💳 Integrated Razorpay payments and JWT authentication
+- 📋 Milestone-based fund release with role-based access control
+- 🏗️ Scalable REST APIs with MERN stack backend
+- 🔒 Built with **React, Node.js, MongoDB, Solidity, Hardhat**
+
+`React` `Node.js` `MongoDB` `Solidity` `Polygon` `Razorpay` `JWT`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/iamvivek1999/NetraInvest)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat&logo=googlechrome&logoColor=white)](https://github.com/iamvivek1999/NetraInvest)
 
 </td>
 </tr>
@@ -84,29 +109,34 @@ vivek = {
 <td width="50%">
 
 ### 🟢 DevOps Cloud Deployment Pipeline
-> Production-grade CI/CD from zero to deployed
 
-- ☁️ End-to-end **AWS EC2** infrastructure setup
-- 🐳 **Docker** containers + **Nginx** reverse proxy
-- ⚙️ **GitHub Actions** CI/CD automation pipelines
-- 🔒 SSL/TLS configuration & load balancing
-- 📦 Scalable deployment architecture
+Production-grade CI/CD infrastructure from code to cloud
 
-`AWS` `Docker` `Nginx` `GitHub Actions` `Linux`
+- ☁️ Deployed applications on **AWS EC2** with full configuration
+- 🐳 Dockerized services behind **Nginx** reverse proxy
+- ⚙️ Built automated **GitHub Actions** CI/CD pipeline
+- 🔒 SSL/TLS certificate setup and load balancing configuration
+- 📦 End-to-end deployment from GitHub push to live AWS server
+
+`AWS EC2` `Docker` `Nginx` `GitHub Actions` `Linux` `SSL`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/iamvivek1999/devops-pipeline)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat&logo=googlechrome&logoColor=white)](https://github.com/iamvivek1999/devops-pipeline)
 
 </td>
 <td width="50%">
 
-### 🔵 What's Next?
-> Currently building...
+### 🌱 Currently Learning
 
-- 🤖 **Agentic AI** workflows with tool-use & memory
-- ☸️ **Kubernetes** orchestration for microservices
-- 🌩️ **Cloud-native** infrastructure with Terraform
-- 🔗 **LLM-integrated** backend systems
-- 📡 Edge ML deployment pipelines
+Actively expanding into production-grade engineering topics
 
-*Stay tuned for new repos dropping soon.*
+- 🤖 **Agentic AI** — tool-use, memory, and multi-step reasoning
+- ☸️ **Kubernetes** — container orchestration and Helm charts
+- 🌩️ **Terraform** — infrastructure as code on AWS
+- 🧩 **System Design** — distributed systems, caching, queues
+- 🔗 **LLM Integration** — building AI-powered backend services
+
+*Repos for these coming soon.*
 
 </td>
 </tr>
@@ -158,7 +188,24 @@ vivek = {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 </div>
+
+---
+
+## `🧠 Interests`
+
+- Distributed Systems & Backend Architecture
+- AI Infrastructure & MLOps
+- Cloud-Native Applications
+- DevOps Automation & Infrastructure as Code
+- Cybersecurity & Network Intelligence
 
 ---
 
@@ -181,10 +228,12 @@ vivek = {
 
 ---
 
-## `🏆 Trophies`
+## `🧩 Coding Profiles`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamvivek1999&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="900"/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vivekbhange/)
+
 </div>
 
 ---
@@ -193,10 +242,19 @@ vivek = {
 
 | 🏅 Certification | 🏢 Issuer |
 |---|---|
-| DevOps and Software Engineering | IBM |
-| Generative AI | Multiple Platforms |
-| Java Programming | Certified |
+| [DevOps and Software Engineering](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | IBM |
+| [Generative AI Fundamentals](https://www.coursera.org) | Coursera / Google |
+| Java Programming | Oracle Certified |
 | Python Programming | Certified |
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM-DevOps%20Certified-054ADA?style=flat&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Generative%20AI-4285F4?style=flat&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Certified-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+</div>
 
 ---
 
@@ -204,26 +262,26 @@ vivek = {
 
 <div align="center">
 
-I'm actively seeking **SDE, AI/ML Engineer, and DevOps** roles at ambitious startups and top tech companies.  
-If you're building something impactful — let's talk.
+I'm actively looking for **internships and entry-level roles** in Backend, AI/ML, DevOps, and Cloud Engineering.  
+If you're building something interesting — let's talk.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveksainathbhange)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekbhange2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvivek1999)
-
-<br/>
-
-```
-⚡ From Pune, building for the world.
-   AI · Cloud · Code — that's the stack. Let's ship something great.
-```
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF4081?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekbhange.netlify.app/)
+[![Resume](https://img.shields.io/badge/Download_Resume-00C853?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1O4yitQ8VMU94GCLGa6MHO9kxQXa4GpHW/view?usp=drive_link)
 
 </div>
 
 ---
 
+## `⚡ Philosophy`
+
+> Build systems that are intelligent, scalable, and production-ready.
+
+---
+
 <div align="center">
-<sub>Crafted with precision by Vivek Bhange · VIIT Pune · 2025</sub>
+<sub>Crafted with precision by Vivek Bhange · VIIT Pune · 2026</sub>
 </div>
